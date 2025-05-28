@@ -1,0 +1,16 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": { "name": "Фронт" },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [30.52, 50.45],
+                    [31.00, 49.00]
+                ]
+            }
+        }
+    ]
+}
